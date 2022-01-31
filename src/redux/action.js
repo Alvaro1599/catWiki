@@ -1,7 +1,7 @@
 import axios from "axios"
 
 export const homeData = () => async (dispatch) => {
-  const data = await axios.get("http://localhost:4000/api/getBredds")
+  const data = await axios.get("https://catserverapi.herokuapp.com/api/getBredds")
   console.log("dataagain");
   dispatch({
     type: "GET_HOME_DATA",
@@ -18,7 +18,7 @@ export const filterData = (string = "amer") => async (dispatch) => {
 
 export const detail = (id) => async (dispatch) => {
   console.log(id);
-  const data = await axios.get("http://localhost:4000/api/getDetail/" + id)
+  const data = await axios.get("https://catserverapi.herokuapp.com/api/getDetail/" + id)
   dispatch({
     type: "GET_DETAIL",
     payload: data.data
