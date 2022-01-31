@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/catWiki/static/css/main.4ac5bd7b.css",
-    "main.js": "/catWiki/static/js/main.b6a0bcfc.js",
+    "main.js": "/catWiki/static/js/main.f0863a7c.js",
     "static/js/787.80d52383.chunk.js": "/catWiki/static/js/787.80d52383.chunk.js",
     "static/media/HeroImagelg.png": "/catWiki/static/media/HeroImagelg.b8e8da0106a66d0639ce.png",
     "static/media/image 3.png": "/catWiki/static/media/image 3.084e290fd2d3180fd127.png",
@@ -11,11 +11,11 @@
     "static/media/CatwikiLogo white.svg": "/catWiki/static/media/CatwikiLogo white.a8183a29ce113842ce529d7d84981a75.svg",
     "index.html": "/catWiki/index.html",
     "main.4ac5bd7b.css.map": "/catWiki/static/css/main.4ac5bd7b.css.map",
-    "main.b6a0bcfc.js.map": "/catWiki/static/js/main.b6a0bcfc.js.map",
+    "main.f0863a7c.js.map": "/catWiki/static/js/main.f0863a7c.js.map",
     "787.80d52383.chunk.js.map": "/catWiki/static/js/787.80d52383.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ac5bd7b.css",
-    "static/js/main.b6a0bcfc.js"
+    "static/js/main.f0863a7c.js"
   ]
 }
