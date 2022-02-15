@@ -13,7 +13,7 @@
 
 * Website: http://alvarotech.me/portafolio/
 * Github: [@Alvaro1599](https://github.com/Alvaro1599)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/alvaro-canales-aguilar\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/alvaro-canales-aguilar\/)
+* LinkedIn: [@https:\/\/www.linkedin.com\/in\/alvaro-canales-aguilar\/](https:\/\/www.linkedin.com\/in\/alvaro-canales-aguilar\/)
 
 ## Show your support
 
